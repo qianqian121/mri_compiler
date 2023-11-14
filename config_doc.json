@@ -1,0 +1,26 @@
+{
+  "events_gradient": [
+    {
+      "duration": "Duration from start to end of event (unit: seconds)",
+      "integral": "List of 3 integrals from start to end of axis waveforms (unit: tesla*seconds)",
+      "time": "Center time of event (unit: seconds)"
+    }
+  ],
+  "events_receive": [
+    {
+      "duration": "Duration from first to last acquisition",
+      "size": "Number of acquisitions",
+      "time": "Time of center acquisition"
+    }
+  ],
+  "events_rf": [
+    {
+      "duration": "Duration from start to end of event (unit: seconds)",
+      "integral": "Integral from start to end of waveform (unit: tesla*seconds)",
+      "time": "Center time of event (unit: seconds)"
+    }
+  ],
+  "hardware": {
+    "sample_period": "Spacing between each sample of waveforms (unit: seconds)"
+  }
+}

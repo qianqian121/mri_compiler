@@ -1,0 +1,5 @@
+click
+json
+matplotlib
+numpy
+struct
